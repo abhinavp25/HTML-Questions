@@ -1,0 +1,33 @@
+What is HTML?
+What is the difference between HTML elements and tags?
+What are Attributes and how do you use them?
+What is the difference between a block-level element and an inline element?
+When are comments used in HTML?
+What are the HTML tags used to display the data in the tabular form?
+How to create a Hyperlink in HTML?
+Name some common lists that are used when designing a page.
+What is semantic HTML?
+What is an image map?
+Does a hyperlink only apply to text?
+What is a Style Sheet?
+Explain the layout of HTML
+What is a marquee?
+What are the tags used to separate a section of texts?
+What is the difference between DIV and SPAN in HTML?
+What is the purpose of using alternative texts in images?
+How to create a new HTML element?
+Is the <!DOCTYPE html> tag considered as a HTML tag?
+Why is a URL encoded in HTML?
+What is the use of an iframe tag?
+What are the entities in HTML?
+Can you create a multi-colored text on a web page?
+How to make a picture of a background image of a web page?
+What is the use of a span tag? Explain with example.
+What is the advantage of collapsing white space?
+Is there any way to keep list elements straight in an HTML file?
+Explain The Key Differences Between LocalStorage And SessionStorage Objects.
+When is it appropriate to use frames?
+How to insert a picture into a background image of a web page?
+What happens if you open the external CSS file in a browser?
+
+
